@@ -1,10 +1,6 @@
 # WhatLanQiao-2023
 
----
-
 蓝桥杯2023备赛练习习题集
-
----
 
 ## 一些想说的话
 
@@ -14,10 +10,6 @@
 
 就先吐槽到这吧。
 
----
-
 ## 常用链接
 
 [蓝桥杯题库](https://www.lanqiao.cn/problems/) - [蓝桥杯备赛](https://www.lanqiao.cn/cup/) - [蓝桥云课平台](https://www.lanqiao.cn/courses/)
-
----
