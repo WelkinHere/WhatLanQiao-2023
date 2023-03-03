@@ -18,7 +18,7 @@ int main() {
     for(int i = 1; i <= 2020; i++) {
         loadcache = i;
         do {
-        	// printf("Debug: i = %d; cache = %d; loadcache = %d, sum = %d\n", i, cache, loadcache, sum);
+            // printf("Debug: i = %d; cache = %d; loadcache = %d, sum = %d\n", i, cache, loadcache, sum);
             cache = breakUpNum(loadcache);
             loadcache = loadcache / 10;
             if(cache == 2) {sum++;}
